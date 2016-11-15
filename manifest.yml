@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: IBM devOps tutorial
-  host: IBM-devOps-tutorial
+  name: IBMbluemixDev
+  host: IBMbluemixDev
   disk_quota: 1024M
